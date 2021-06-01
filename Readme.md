@@ -1,7 +1,7 @@
 # Advance Solidity
 ## Unit 21: You sure can attract a crowd!
 
-### Details of word done
+### Details of work done
 
 #### 1. PupperCoin.sol and Crowdsale.sol files were created 
 #### 2. OpenZeppelin contracts Crowdsale, MintedCrowdsale, CappedCrowdsale, TimedCrowdsale, RefundablePostDeliveryCrowdsale were imported
